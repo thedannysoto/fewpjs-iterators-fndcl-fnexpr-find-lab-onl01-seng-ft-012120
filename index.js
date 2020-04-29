@@ -13,7 +13,6 @@ function superbowlWin (record) {
   if (winCheck) {
     return winCheck.year;
   } else {
-    let x;
-    return x;
+    return winCheck;
   }
 }
